@@ -1,0 +1,30 @@
+nav, footer{
+    background-color: steelblue;
+    color: white;
+    padding: 1%;
+}
+footer p {
+    font-size: 20px;
+    margin: 5px auto;
+    padding: 3%;
+}
+a:hover{
+    background-color: white;
+    color: steelblue
+}
+main p {
+    width: 80%;
+    margin: 50px;
+}
+img {
+    width: 80px;
+}
+* { 
+    border: 2px solid blue;
+}
+nav { 
+    background-color: red;
+}
+h1 {
+    margin: 50px 0;
+}
