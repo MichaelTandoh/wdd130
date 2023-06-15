@@ -136,8 +136,9 @@ h4{
     grid-template-columns: repeat(10,1fr);
 }
 
-.card-img{
-    width: 900px;
+.card-img, .mountains
+{
+    width: 100%;
 }
 
 
